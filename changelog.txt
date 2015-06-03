@@ -2,3 +2,4 @@
 1. UI changes.
 2. Added changelog.
 3. Code cleanup.
+4. Revisied colours used in material design.
