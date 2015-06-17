@@ -8,10 +8,12 @@
  
 
 **v1.2 (6 June 2015)**
+
 1. Added Sweep to Sleep.
 
 
 **v1.1 (5 June 2015)**
+
 1. UI changes.
 2. Added changelog.
 3. Code cleanup.
