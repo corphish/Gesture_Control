@@ -1,11 +1,11 @@
-1. Code Cleanup.
+1. Changelog now shown in cards.
  
-2. Support for Android Jellybean 4.1 and above. (API Level 16)
+2. New styles for layouts using API level below 21.
  
-3. Landscape Orientation.
+3. New screens to show errors.
  
-4. Support for small screen devices.
+4. Added new special gestures for taoshan.
  
-5. Welcome message to be shown only once.
+5. Only those toggles will be shown which are supported by kernel.
  
-6. New Icon.
+6. Removed toast messages.
