@@ -1,11 +1,5 @@
-1. Changelog now shown in cards.
- 
-2. New styles for layouts using API level below 21.
- 
-3. New screens to show errors.
- 
-4. Added new special gestures for taoshan.
- 
-5. Only those toggles will be shown which are supported by kernel.
- 
-6. Removed toast messages.
+1. Fixed Kernel Version string, which was shown error in many devices.
+
+2. Fixed 'Update Available' bug which was shown even if on latest version.
+
+3. Introducing OTA Engine for updating Zapdos Kernels, currently available for Motorola Moto E and Samsung Galaxy Star.
