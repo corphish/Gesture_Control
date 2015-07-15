@@ -1,11 +1,18 @@
--Fixed not being able to set max CPU frequency.
--Improvements in frequency scaling.
--Added 400,800 Mhz frequencies.
--Modified voltage table, its now more power efficient.
--Overclock to 1400Mhz.
--Added smartassv2, lulzactive governors.
--I/O Optimization : Dynamic read ahead support.
--I/O Optimization : Dynamic fsync.
--Added doubletap2wake. [EXPERIMENTAL]
--Added bunch of TCP Net Congestion Controls.
--Added Mali GPU Profiling.
+1. Added many IOSchedulers.
+    i. Zen
+    ii. Fifo
+    iii. Vr
+    iv. TripnDroid
+2. Disabled GFS.
+3. Asynchronous I/O latency to a solid-state disk greatly increased.
+4. NOATIME and NODIRATIME by default.
+5. Disabled CRC check.
+6. Optimized SLUB.
+7. Optimized Square root algorithm.
+8. No dirty things in kernel version.
+9. Enabled KSM.
+10. Added 1600 Mhz locked frequency.
+11. Improvements in CPU frequency scaling.
+12. Updated Dynamic fsync driver to v2.
+13. Revised Voltage Table for battery improvements.
+14. Added 200Mhz frequency.
