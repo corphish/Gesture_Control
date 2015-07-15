@@ -1,0 +1,11 @@
+-Fixed not being able to set max CPU frequency.
+-Improvements in frequency scaling.
+-Added 400,800 Mhz frequencies.
+-Modified voltage table, its now more power efficient.
+-Overclock to 1400Mhz.
+-Added smartassv2, lulzactive governors.
+-I/O Optimization : Dynamic read ahead support.
+-I/O Optimization : Dynamic fsync.
+-Added doubletap2wake. [EXPERIMENTAL]
+-Added bunch of TCP Net Congestion Controls.
+-Added Mali GPU Profiling.
