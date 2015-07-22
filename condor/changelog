@@ -1,0 +1,4 @@
+-Added Power Suspend drivers.
+-Added IntelliPlug.
+-Added IntelliThermal.
+-Added Dynamic Fsync, by faux123, ported to work with Power Suspend drivers by varun.chitre15, backported to Linux 3.4 by me.
