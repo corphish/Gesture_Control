@@ -1,0 +1,12 @@
+1. Added ThunderPlug, tuned to quad-core devices by me.
+2. Added LCD Notifier drivers to support ThunderPlug.
+3. Lowered VFS Cache Pressure.
+4. Added Dynamic Readahead Support.
+5. Added KCAL.
+6. Implemented sysfs for Vibrator Intensity.
+7. Upgraded ondemand to Linux 3.18.
+8. Enabled HMP aware task scheduling.
+9. Add BFQ IOScheduler.
+10. Thermal throttle temperature made configurable.
+11. Merged latest CM changes.
+12. In-App updates.
