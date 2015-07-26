@@ -1,14 +1,5 @@
-1. Switched to AnyKernel configuration (thanks to thewisenerd for his help in the power key hax).
-2. Compatibility with kitkat and all lollipop based ROMs.
-3. 8 new gestures, wholly written by me -
-    i.Swipe Up
-    ii. Swipe Down
-    iii. Swipe Left
-    iv. Swipe Right
-    v. Swipe Forward Diagonally
-    vi. Swipe Backward Diagonally
-    vii. Draw 'L'
-    viii. Draw 'V'
-4. Fixed Music Mode to some extent, it now needs doubletap2wake on for functioning.
-5. Switched to XZ Kernel Compression.
-6. Added Dynamic Fsync v2 by faux123
+1. Underclock to 286Mhz with undervolting.
+2. Removed old custom governors.
+3. New governors - i) Intellimm ii) Smartmax.
+4. Added IntelliThermal.
+5. Added MSM Auto-Hotplug.
