@@ -2,4 +2,4 @@
 2. Added CPU Governors - Intelli-Active and Darkness.
 3. Mild (and stable) Undervolting to improve battery life.
 4. Added SIO I/OScheduler.
-5. Enabled Flash-Friendly File Sysytem support within kernel (F2FS Support).
+5. Enabled Flash-Friendly File System support within kernel (F2FS Support).
