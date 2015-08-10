@@ -1,3 +1,3 @@
-1. Layout Changes, basic navigation bar is here.
-2. Combine 1.7 and 1.7-r2 to a universal edition.
-3. Some bug fixes.
+1. New Kernel Profiles section is here.
+2. Device Specific Section contains various device specific kernel parameters toggles.
+3. Bug fixes.
