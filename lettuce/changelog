@@ -1,5 +1,2 @@
-1. Added AutoSMP hotplug.
-2. Added CPU Governors - Intelli-Active and Darkness.
-3. Mild (and stable) Undervolting to improve battery life.
-4. Added SIO I/OScheduler.
-5. Enabled Flash-Friendly File System support within kernel (F2FS Support).
+1. Updated to latest CM Sources.
+2. Zapdos Charger Control 1.0 is here. A charging control driver wholly written by me to manipulate USB current.
