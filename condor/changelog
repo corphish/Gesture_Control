@@ -1,4 +1,5 @@
--Added Power Suspend drivers.
--Added IntelliPlug.
--Added IntelliThermal.
--Added Dynamic Fsync, by faux123, ported to work with Power Suspend drivers by varun.chitre15, backported to Linux 3.4 by me.
+-Updated base to latest CM sources.
+-Introducing Zapdos Charger Control, a mechanism to control charging current.
+-Implemented sysfs for pocket mode.
+-Enabled F2FS.
+-Fixed up gaming performance issues.
