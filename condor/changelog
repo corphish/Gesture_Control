@@ -1,5 +1,2 @@
--Updated base to latest CM sources.
--Introducing Zapdos Charger Control, a mechanism to control charging current.
--Implemented sysfs for pocket mode.
--Enabled F2FS.
--Fixed up gaming performance issues.
+-Reduced max and default current in charger control.
+-Added and reverted some stuff as an attempt to bring back lagless life.
