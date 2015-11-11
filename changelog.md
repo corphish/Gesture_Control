@@ -1,3 +1,2 @@
-1. Complete Set-on-Boot support.
-2. Revamped CPU Section.
-3. Under the hood improvement
+1. Fixed su messages coming up multiple time on set on boot.
+2. Timer rework.
